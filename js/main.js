@@ -18,7 +18,7 @@
 
 
 document.getElementById("downloadButton").addEventListener("click", function() {
-    var pdfUrl = 'https://drive.google.com/file/d/1P3SZz0lA_QpurPSw06_DfQsUeKti3f0s/view?usp=sharing';
+    var pdfUrl = 'https://drive.google.com/file/d/1WPnuGkRSJQRqKlbv2lnKjY0QrS8b-kQU/view?usp=sharing';
     var fileName = 'Sagar Verma Resume.pdf';
     var link = document.createElement('a');
     link.href = pdfUrl;
